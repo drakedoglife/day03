@@ -1,0 +1,47 @@
+h1 {
+  font-family: Monospace;
+  font-style: Italic;
+  font-weight: bolder;
+  font-size: 45px;
+  text-align: center;
+  text-shadow: 5px 5px 5px blue;
+}
+
+#section {
+  text-align: center;
+}
+
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: black;
+  text-decoration: line-through;
+}
+
+a:active {
+  color: blue;
+  text-decoration: overline;
+}
+
+#footer {
+  text-align: center;
+}
+
+ul {
+  list-style: inside square;
+}
+
+#experience {
+  text-align: center;
+}
+
+#table table, th, td{
+  border: 1px solid blue;
+  border-collapse:collapse;
+}
